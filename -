@@ -1,0 +1,773 @@
+2022/06/18 00:12:22 [TRACE] Doing: MirrorUpdate
+2022/06/18 00:22:22 [TRACE] Doing: MirrorUpdate
+2022/06/18 00:32:22 [TRACE] Doing: MirrorUpdate
+2022/06/18 00:42:22 [TRACE] Doing: MirrorUpdate
+2022/06/18 00:52:16 [TRACE] Session ID: a04f81592d65338d
+2022/06/18 00:52:16 [TRACE] CSRF Token: i-HhHVItMSyUo7Z6zNkBuI47GUo6MTY1NTQ5MDc2NDQ0OTcxNTUwNw
+2022/06/18 00:52:16 [TRACE] Template: user/dashboard/dashboard
+2022/06/18 00:52:22 [TRACE] Doing: MirrorUpdate
+2022/06/18 01:02:22 [TRACE] Doing: MirrorUpdate
+2022/06/18 01:04:20 [TRACE] Session ID: a04f81592d65338d
+2022/06/18 01:04:20 [TRACE] CSRF Token: i-HhHVItMSyUo7Z6zNkBuI47GUo6MTY1NTQ5MDc2NDQ0OTcxNTUwNw
+2022/06/18 01:04:20 [TRACE] Template: user/dashboard/dashboard
+2022/06/18 01:04:22 [TRACE] Session ID: a04f81592d65338d
+2022/06/18 01:04:22 [TRACE] CSRF Token: i-HhHVItMSyUo7Z6zNkBuI47GUo6MTY1NTQ5MDc2NDQ0OTcxNTUwNw
+2022/06/18 01:04:22 [TRACE] Template: user/dashboard/dashboard
+2022/06/18 01:04:23 [TRACE] Session ID: a04f81592d65338d
+2022/06/18 01:04:23 [TRACE] CSRF Token: i-HhHVItMSyUo7Z6zNkBuI47GUo6MTY1NTQ5MDc2NDQ0OTcxNTUwNw
+2022/06/18 01:04:23 [TRACE] Template: user/dashboard/dashboard
+2022/06/18 01:04:24 [TRACE] Session ID: a04f81592d65338d
+2022/06/18 01:04:24 [TRACE] CSRF Token: i-HhHVItMSyUo7Z6zNkBuI47GUo6MTY1NTQ5MDc2NDQ0OTcxNTUwNw
+2022/06/18 01:04:24 [TRACE] Template: user/dashboard/issues
+2022/06/18 01:04:24 [TRACE] Session ID: a04f81592d65338d
+2022/06/18 01:04:24 [TRACE] CSRF Token: i-HhHVItMSyUo7Z6zNkBuI47GUo6MTY1NTQ5MDc2NDQ0OTcxNTUwNw
+2022/06/18 01:04:24 [TRACE] Template: user/dashboard/dashboard
+2022/06/18 01:04:28 [TRACE] Session ID: a04f81592d65338d
+2022/06/18 01:04:28 [TRACE] CSRF Token: i-HhHVItMSyUo7Z6zNkBuI47GUo6MTY1NTQ5MDc2NDQ0OTcxNTUwNw
+2022/06/18 01:04:28 [TRACE] Template: user/dashboard/issues
+2022/06/18 01:04:56 [TRACE] Session ID: a04f81592d65338d
+2022/06/18 01:04:56 [TRACE] CSRF Token: i-HhHVItMSyUo7Z6zNkBuI47GUo6MTY1NTQ5MDc2NDQ0OTcxNTUwNw
+2022/06/18 01:04:56 [TRACE] Template: user/dashboard/dashboard
+2022/06/18 01:04:58 [TRACE] Session ID: a04f81592d65338d
+2022/06/18 01:04:58 [TRACE] CSRF Token: i-HhHVItMSyUo7Z6zNkBuI47GUo6MTY1NTQ5MDc2NDQ0OTcxNTUwNw
+2022/06/18 01:04:58 [TRACE] Template: repo/create
+2022/06/18 01:05:08 [TRACE] Session ID: a04f81592d65338d
+2022/06/18 01:05:08 [TRACE] CSRF Token: i-HhHVItMSyUo7Z6zNkBuI47GUo6MTY1NTQ5MDc2NDQ0OTcxNTUwNw
+2022/06/18 01:05:08 [TRACE] Template: repo/migrate
+2022/06/18 01:06:45 [TRACE] Session ID: a04f81592d65338d
+2022/06/18 01:06:45 [TRACE] CSRF Token: i-HhHVItMSyUo7Z6zNkBuI47GUo6MTY1NTQ5MDc2NDQ0OTcxNTUwNw
+2022/06/18 01:06:45 [TRACE] Template: admin/dashboard
+2022/06/18 01:06:48 [TRACE] Session ID: a04f81592d65338d
+2022/06/18 01:06:48 [TRACE] CSRF Token: i-HhHVItMSyUo7Z6zNkBuI47GUo6MTY1NTQ5MDc2NDQ0OTcxNTUwNw
+2022/06/18 01:06:48 [TRACE] Template: admin/user/list
+2022/06/18 01:06:49 [TRACE] Session ID: a04f81592d65338d
+2022/06/18 01:06:49 [TRACE] CSRF Token: i-HhHVItMSyUo7Z6zNkBuI47GUo6MTY1NTQ5MDc2NDQ0OTcxNTUwNw
+2022/06/18 01:06:49 [TRACE] Template: admin/org/list
+2022/06/18 01:06:50 [TRACE] Session ID: a04f81592d65338d
+2022/06/18 01:06:50 [TRACE] CSRF Token: i-HhHVItMSyUo7Z6zNkBuI47GUo6MTY1NTQ5MDc2NDQ0OTcxNTUwNw
+2022/06/18 01:06:50 [TRACE] Template: admin/repo/list
+2022/06/18 01:06:51 [TRACE] Session ID: a04f81592d65338d
+2022/06/18 01:06:51 [TRACE] CSRF Token: i-HhHVItMSyUo7Z6zNkBuI47GUo6MTY1NTQ5MDc2NDQ0OTcxNTUwNw
+2022/06/18 01:06:51 [TRACE] Template: admin/auth/list
+2022/06/18 01:06:51 [TRACE] Session ID: a04f81592d65338d
+2022/06/18 01:06:51 [TRACE] CSRF Token: i-HhHVItMSyUo7Z6zNkBuI47GUo6MTY1NTQ5MDc2NDQ0OTcxNTUwNw
+2022/06/18 01:06:51 [TRACE] Template: admin/config
+2022/06/18 01:10:18 [TRACE] Log mode: File (Trace)
+2022/06/18 01:10:18 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:10:18 [TRACE] Work directory: /usr/bin
+2022/06/18 01:10:18 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:10:18 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:10:18 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:10:18 [TRACE] Build time: 
+2022/06/18 01:10:18 [TRACE] Build commit: 
+2022/06/18 01:10:18 [TRACE] Git version: 2.36.1
+2022/06/18 01:10:18 [ INFO] Run mode: Production
+2022/06/18 01:10:18 [TRACE] Doing: CheckRepoStats
+2022/06/18 01:10:18 [ INFO] Listen on http://:3000
+2022/06/18 01:11:31 [TRACE] Log mode: File (Trace)
+2022/06/18 01:11:31 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:11:31 [TRACE] Work directory: /usr/bin
+2022/06/18 01:11:31 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:11:31 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:11:31 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:11:31 [TRACE] Build time: 
+2022/06/18 01:11:31 [TRACE] Build commit: 
+2022/06/18 01:11:31 [TRACE] Git version: 2.36.1
+2022/06/18 01:11:31 [TRACE] Doing: CheckRepoStats
+2022/06/18 01:11:31 [ INFO] Run mode: Production
+2022/06/18 01:11:31 [ INFO] Listen on http://:3000
+2022/06/18 01:11:52 [TRACE] Log mode: File (Trace)
+2022/06/18 01:11:52 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:11:52 [TRACE] Work directory: /usr/bin
+2022/06/18 01:11:52 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:11:52 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:11:52 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:11:52 [TRACE] Build time: 
+2022/06/18 01:11:52 [TRACE] Build commit: 
+2022/06/18 01:11:52 [TRACE] Git version: 2.36.1
+2022/06/18 01:11:52 [ INFO] Run mode: Production
+2022/06/18 01:11:52 [TRACE] Doing: CheckRepoStats
+2022/06/18 01:11:52 [ INFO] Listen on http://:3000
+2022/06/18 01:13:12 [TRACE] Log mode: File (Trace)
+2022/06/18 01:13:12 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:13:12 [TRACE] Work directory: /usr/bin
+2022/06/18 01:13:12 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:13:12 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:13:12 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:13:12 [TRACE] Build time: 
+2022/06/18 01:13:12 [TRACE] Build commit: 
+2022/06/18 01:13:12 [TRACE] Git version: 2.36.1
+2022/06/18 01:13:12 [ INFO] Run mode: Production
+2022/06/18 01:13:12 [TRACE] Doing: CheckRepoStats
+2022/06/18 01:13:12 [ INFO] Listen on http://:3000
+2022/06/18 01:21:01 [TRACE] Log mode: File (Trace)
+2022/06/18 01:21:01 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:21:01 [TRACE] Work directory: /usr/bin
+2022/06/18 01:21:01 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:21:01 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:21:01 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:21:01 [TRACE] Build time: 
+2022/06/18 01:21:01 [TRACE] Build commit: 
+2022/06/18 01:21:01 [TRACE] Git version: 2.36.1
+2022/06/18 01:21:01 [ INFO] Run mode: Production
+2022/06/18 01:21:01 [TRACE] Doing: CheckRepoStats
+2022/06/18 01:21:01 [ INFO] Listen on http://:3000
+2022/06/18 01:24:19 [TRACE] Log mode: File (Trace)
+2022/06/18 01:24:19 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:24:19 [TRACE] Work directory: /usr/bin
+2022/06/18 01:24:19 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:24:19 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:24:19 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:24:19 [TRACE] Build time: 
+2022/06/18 01:24:19 [TRACE] Build commit: 
+2022/06/18 01:24:19 [TRACE] Git version: 2.36.1
+2022/06/18 01:24:19 [ INFO] Run mode: Production
+2022/06/18 01:24:19 [TRACE] Doing: CheckRepoStats
+2022/06/18 01:24:19 [ INFO] Listen on http://:3000
+2022/06/18 01:27:46 [TRACE] Log mode: File (Trace)
+2022/06/18 01:27:46 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:27:46 [TRACE] Work directory: /usr/bin
+2022/06/18 01:27:46 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:27:46 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:27:46 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:27:46 [TRACE] Build time: 
+2022/06/18 01:27:46 [TRACE] Build commit: 
+2022/06/18 01:27:46 [TRACE] Git version: 2.36.1
+2022/06/18 01:27:46 [ INFO] Run mode: Production
+2022/06/18 01:27:46 [TRACE] Doing: CheckRepoStats
+2022/06/18 01:27:46 [ INFO] Listen on http://:3000
+2022/06/18 01:27:51 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:27:51 [TRACE] CSRF Token: xT5AcoIQJltwlnJufPozyn-wz9c6MTY1NTUwODQ3MTk3Mzc4NTU1MA
+2022/06/18 01:27:51 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:27:51 [TRACE] CSRF Token: xT5AcoIQJltwlnJufPozyn-wz9c6MTY1NTUwODQ3MTk3Mzc4NTU1MA
+2022/06/18 01:27:51 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:27:51 [TRACE] CSRF Token: xT5AcoIQJltwlnJufPozyn-wz9c6MTY1NTUwODQ3MTk3Mzc4NTU1MA
+2022/06/18 01:27:51 [TRACE] Template: explore/repos
+2022/06/18 01:27:56 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:27:56 [TRACE] CSRF Token: xT5AcoIQJltwlnJufPozyn-wz9c6MTY1NTUwODQ3MTk3Mzc4NTU1MA
+2022/06/18 01:27:56 [TRACE] Template: user/auth/login
+2022/06/18 01:27:58 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:27:58 [TRACE] CSRF Token: xT5AcoIQJltwlnJufPozyn-wz9c6MTY1NTUwODQ3MTk3Mzc4NTU1MA
+2022/06/18 01:27:58 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:27:58 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:27:58 [TRACE] Template: explore/repos
+2022/06/18 01:28:00 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:28:00 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:28:00 [TRACE] Template: user/dashboard/dashboard
+2022/06/18 01:28:01 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:28:01 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:28:01 [TRACE] Template: user/dashboard/dashboard
+2022/06/18 01:28:02 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:28:02 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:28:02 [TRACE] Template: user/dashboard/dashboard
+2022/06/18 01:28:12 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:28:12 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:28:12 [TRACE] Template: user/dashboard/dashboard
+2022/06/18 01:28:14 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:28:14 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:28:14 [TRACE] Template: explore/repos
+2022/06/18 01:28:15 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:28:15 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:28:15 [TRACE] Template: user/dashboard/dashboard
+2022/06/18 01:28:19 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:28:19 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:28:19 [TRACE] Template: user/profile
+2022/06/18 01:30:11 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:30:11 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:30:11 [TRACE] Template: user/settings/profile
+2022/06/18 01:30:15 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:30:15 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:30:15 [TRACE] Template: admin/dashboard
+2022/06/18 01:30:17 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:30:17 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:30:17 [TRACE] Template: admin/user/list
+2022/06/18 01:30:18 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:30:18 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:30:18 [TRACE] Template: admin/dashboard
+2022/06/18 01:30:19 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:30:19 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:30:19 [TRACE] Template: admin/org/list
+2022/06/18 01:30:20 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:30:20 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:30:20 [TRACE] Template: admin/repo/list
+2022/06/18 01:30:21 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:30:21 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:30:21 [TRACE] Template: admin/auth/list
+2022/06/18 01:30:22 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:30:22 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:30:22 [TRACE] Template: admin/config
+2022/06/18 01:31:36 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:31:36 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:31:36 [TRACE] Template: admin/repo/list
+2022/06/18 01:31:36 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:31:36 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:31:36 [TRACE] Template: admin/dashboard
+2022/06/18 01:37:46 [TRACE] Doing: MirrorUpdate
+2022/06/18 01:38:40 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:38:40 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:38:40 [TRACE] Template: admin/dashboard
+2022/06/18 01:38:41 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:38:41 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:38:41 [TRACE] Template: admin/dashboard
+2022/06/18 01:38:44 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:38:44 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:38:44 [TRACE] Template: admin/config
+2022/06/18 01:38:44 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:38:44 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:38:44 [TRACE] Template: admin/config
+2022/06/18 01:38:46 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:38:46 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:38:46 [TRACE] Template: user/settings/profile
+2022/06/18 01:38:50 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:38:50 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:38:50 [TRACE] Template: user/settings/repositories
+2022/06/18 01:38:51 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:38:51 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:38:51 [TRACE] Template: user/settings/avatar
+2022/06/18 01:38:53 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:38:53 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:38:53 [TRACE] Template: user/settings/profile
+2022/06/18 01:38:59 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:38:59 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:38:59 [TRACE] Template: user/dashboard/dashboard
+2022/06/18 01:39:02 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:39:02 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:39:02 [TRACE] Template: user/profile
+2022/06/18 01:39:06 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:39:06 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:39:06 [TRACE] Template: user/settings/profile
+2022/06/18 01:39:20 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:39:20 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:39:20 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:39:20 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:39:20 [TRACE] Template: user/settings/profile
+2022/06/18 01:39:22 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:39:22 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:39:22 [TRACE] Template: user/settings/avatar
+2022/06/18 01:39:25 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:39:25 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:39:25 [TRACE] Template: user/settings/password
+2022/06/18 01:39:26 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:39:26 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:39:26 [TRACE] Template: user/settings/password
+2022/06/18 01:39:27 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:39:27 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:39:27 [TRACE] Template: user/settings/email
+2022/06/18 01:39:29 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:39:29 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:39:29 [TRACE] Template: user/settings/email
+2022/06/18 01:39:29 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:39:29 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:39:29 [TRACE] Template: user/settings/sshkeys
+2022/06/18 01:39:30 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:39:30 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:39:30 [TRACE] Template: user/settings/email
+2022/06/18 01:39:33 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:39:33 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:39:33 [TRACE] Template: user/settings/sshkeys
+2022/06/18 01:39:34 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:39:34 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:39:34 [TRACE] Template: user/settings/security
+2022/06/18 01:39:35 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:39:35 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:39:35 [TRACE] Template: user/settings/repositories
+2022/06/18 01:39:36 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:39:36 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:39:36 [TRACE] Template: user/settings/security
+2022/06/18 01:39:37 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:39:37 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:39:37 [TRACE] Template: user/settings/applications
+2022/06/18 01:39:48 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:39:48 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:39:48 [TRACE] Template: user/dashboard/dashboard
+2022/06/18 01:39:49 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:39:49 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:39:49 [TRACE] Template: user/dashboard/dashboard
+2022/06/18 01:39:50 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:39:50 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:39:50 [TRACE] Template: user/dashboard/dashboard
+2022/06/18 01:39:51 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:39:51 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:39:51 [TRACE] Template: explore/repos
+2022/06/18 01:39:57 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:39:57 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:39:57 [TRACE] Template: explore/repos
+2022/06/18 01:39:58 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:39:58 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:39:58 [TRACE] Template: explore/repos
+2022/06/18 01:40:03 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:40:03 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:40:03 [TRACE] Template: user/dashboard/dashboard
+2022/06/18 01:47:46 [TRACE] Doing: MirrorUpdate
+2022/06/18 01:49:11 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:49:11 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:49:11 [TRACE] Template: repo/create
+2022/06/18 01:49:53 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:49:53 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:49:55 [TRACE] Repository created [2]: Ohio2/ohioweb
+2022/06/18 01:49:55 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:49:55 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:49:55 [TRACE] Template: repo/bare
+2022/06/18 01:51:27 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:51:27 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:51:27 [TRACE] Template: admin/dashboard
+2022/06/18 01:51:29 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:51:29 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:51:29 [TRACE] Template: admin/config
+2022/06/18 01:51:31 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:51:31 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:51:31 [TRACE] Template: admin/dashboard
+2022/06/18 01:51:34 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:51:34 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:51:34 [TRACE] Template: admin/config
+2022/06/18 01:53:46 [TRACE] Session ID: 4ee962c4bea21a63
+2022/06/18 01:53:46 [TRACE] CSRF Token: DULGArYU33P3A1R27DYbaqijTtI6MTY1NTUwODQ3ODI1NjQxNDg2OA
+2022/06/18 01:53:46 [TRACE] Template: admin/config
+2022/06/18 01:54:26 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:26 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:26 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:26 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:26 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:26 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:26 [TRACE] Build time: 
+2022/06/18 01:54:26 [TRACE] Build commit: 
+2022/06/18 01:54:26 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:26 [ INFO] Run mode: Production
+2022/06/18 01:54:26 [TRACE] Doing: CheckRepoStats
+2022/06/18 01:54:27 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:27 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:27 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:27 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:27 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:27 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:27 [TRACE] Build time: 
+2022/06/18 01:54:27 [TRACE] Build commit: 
+2022/06/18 01:54:27 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:28 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:28 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:28 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:28 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:28 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:28 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:28 [TRACE] Build time: 
+2022/06/18 01:54:28 [TRACE] Build commit: 
+2022/06/18 01:54:28 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:29 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:29 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:29 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:29 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:29 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:29 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:29 [TRACE] Build time: 
+2022/06/18 01:54:29 [TRACE] Build commit: 
+2022/06/18 01:54:29 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:30 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:30 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:30 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:30 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:30 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:30 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:30 [TRACE] Build time: 
+2022/06/18 01:54:30 [TRACE] Build commit: 
+2022/06/18 01:54:30 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:31 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:31 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:31 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:31 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:31 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:31 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:31 [TRACE] Build time: 
+2022/06/18 01:54:31 [TRACE] Build commit: 
+2022/06/18 01:54:31 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:31 [ INFO] Run mode: Production
+2022/06/18 01:54:31 [TRACE] Doing: CheckRepoStats
+2022/06/18 01:54:32 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:32 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:32 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:32 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:32 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:32 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:32 [TRACE] Build time: 
+2022/06/18 01:54:32 [TRACE] Build commit: 
+2022/06/18 01:54:32 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:33 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:33 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:33 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:33 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:33 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:33 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:33 [TRACE] Build time: 
+2022/06/18 01:54:33 [TRACE] Build commit: 
+2022/06/18 01:54:33 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:33 [ INFO] Run mode: Production
+2022/06/18 01:54:34 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:34 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:34 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:34 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:34 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:34 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:34 [TRACE] Build time: 
+2022/06/18 01:54:34 [TRACE] Build commit: 
+2022/06/18 01:54:34 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:34 [ INFO] Run mode: Production
+2022/06/18 01:54:34 [TRACE] Doing: CheckRepoStats
+2022/06/18 01:54:35 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:35 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:35 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:35 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:35 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:35 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:35 [TRACE] Build time: 
+2022/06/18 01:54:35 [TRACE] Build commit: 
+2022/06/18 01:54:35 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:36 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:36 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:36 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:36 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:36 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:36 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:36 [TRACE] Build time: 
+2022/06/18 01:54:36 [TRACE] Build commit: 
+2022/06/18 01:54:36 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:36 [ INFO] Run mode: Production
+2022/06/18 01:54:36 [TRACE] Doing: CheckRepoStats
+2022/06/18 01:54:37 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:37 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:37 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:37 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:37 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:37 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:37 [TRACE] Build time: 
+2022/06/18 01:54:37 [TRACE] Build commit: 
+2022/06/18 01:54:37 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:37 [ INFO] Run mode: Production
+2022/06/18 01:54:38 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:38 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:38 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:38 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:38 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:38 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:38 [TRACE] Build time: 
+2022/06/18 01:54:38 [TRACE] Build commit: 
+2022/06/18 01:54:38 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:39 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:39 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:39 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:39 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:39 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:39 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:39 [TRACE] Build time: 
+2022/06/18 01:54:39 [TRACE] Build commit: 
+2022/06/18 01:54:39 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:40 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:40 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:40 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:40 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:40 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:40 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:40 [TRACE] Build time: 
+2022/06/18 01:54:40 [TRACE] Build commit: 
+2022/06/18 01:54:40 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:41 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:41 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:41 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:41 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:41 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:41 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:41 [TRACE] Build time: 
+2022/06/18 01:54:41 [TRACE] Build commit: 
+2022/06/18 01:54:41 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:42 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:42 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:42 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:42 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:42 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:42 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:42 [TRACE] Build time: 
+2022/06/18 01:54:42 [TRACE] Build commit: 
+2022/06/18 01:54:42 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:42 [ INFO] Run mode: Production
+2022/06/18 01:54:42 [TRACE] Doing: CheckRepoStats
+2022/06/18 01:54:43 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:43 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:43 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:43 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:43 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:43 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:43 [TRACE] Build time: 
+2022/06/18 01:54:43 [TRACE] Build commit: 
+2022/06/18 01:54:43 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:44 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:44 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:44 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:44 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:44 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:44 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:44 [TRACE] Build time: 
+2022/06/18 01:54:44 [TRACE] Build commit: 
+2022/06/18 01:54:44 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:45 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:45 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:45 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:45 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:45 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:45 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:45 [TRACE] Build time: 
+2022/06/18 01:54:45 [TRACE] Build commit: 
+2022/06/18 01:54:45 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:46 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:46 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:46 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:46 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:46 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:46 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:46 [TRACE] Build time: 
+2022/06/18 01:54:46 [TRACE] Build commit: 
+2022/06/18 01:54:46 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:47 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:47 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:47 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:47 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:47 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:47 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:47 [TRACE] Build time: 
+2022/06/18 01:54:47 [TRACE] Build commit: 
+2022/06/18 01:54:47 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:48 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:48 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:48 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:48 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:48 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:48 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:48 [TRACE] Build time: 
+2022/06/18 01:54:48 [TRACE] Build commit: 
+2022/06/18 01:54:48 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:49 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:49 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:49 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:49 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:49 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:49 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:49 [TRACE] Build time: 
+2022/06/18 01:54:49 [TRACE] Build commit: 
+2022/06/18 01:54:49 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:50 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:50 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:50 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:50 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:50 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:50 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:50 [TRACE] Build time: 
+2022/06/18 01:54:50 [TRACE] Build commit: 
+2022/06/18 01:54:50 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:51 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:51 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:51 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:51 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:51 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:51 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:51 [TRACE] Build time: 
+2022/06/18 01:54:51 [TRACE] Build commit: 
+2022/06/18 01:54:51 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:52 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:52 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:52 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:52 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:52 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:52 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:52 [TRACE] Build time: 
+2022/06/18 01:54:52 [TRACE] Build commit: 
+2022/06/18 01:54:52 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:52 [ INFO] Run mode: Production
+2022/06/18 01:54:52 [TRACE] Doing: CheckRepoStats
+2022/06/18 01:54:53 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:53 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:53 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:53 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:53 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:53 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:53 [TRACE] Build time: 
+2022/06/18 01:54:53 [TRACE] Build commit: 
+2022/06/18 01:54:53 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:54 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:54 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:54 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:54 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:54 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:54 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:54 [TRACE] Build time: 
+2022/06/18 01:54:54 [TRACE] Build commit: 
+2022/06/18 01:54:54 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:55 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:55 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:55 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:55 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:55 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:55 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:55 [TRACE] Build time: 
+2022/06/18 01:54:55 [TRACE] Build commit: 
+2022/06/18 01:54:55 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:56 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:56 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:56 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:56 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:56 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:56 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:56 [TRACE] Build time: 
+2022/06/18 01:54:56 [TRACE] Build commit: 
+2022/06/18 01:54:56 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:57 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:57 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:57 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:57 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:57 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:57 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:57 [TRACE] Build time: 
+2022/06/18 01:54:57 [TRACE] Build commit: 
+2022/06/18 01:54:57 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:58 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:58 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:58 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:58 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:58 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:58 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:58 [TRACE] Build time: 
+2022/06/18 01:54:58 [TRACE] Build commit: 
+2022/06/18 01:54:58 [TRACE] Git version: 2.36.1
+2022/06/18 01:54:59 [TRACE] Log mode: File (Trace)
+2022/06/18 01:54:59 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:54:59 [TRACE] Work directory: /usr/bin
+2022/06/18 01:54:59 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:54:59 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:54:59 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:54:59 [TRACE] Build time: 
+2022/06/18 01:54:59 [TRACE] Build commit: 
+2022/06/18 01:54:59 [TRACE] Git version: 2.36.1
+2022/06/18 01:55:00 [TRACE] Log mode: File (Trace)
+2022/06/18 01:55:00 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:55:00 [TRACE] Work directory: /usr/bin
+2022/06/18 01:55:00 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:55:00 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:55:00 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:55:00 [TRACE] Build time: 
+2022/06/18 01:55:00 [TRACE] Build commit: 
+2022/06/18 01:55:00 [TRACE] Git version: 2.36.1
+2022/06/18 01:55:01 [TRACE] Log mode: File (Trace)
+2022/06/18 01:55:01 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:55:01 [TRACE] Work directory: /usr/bin
+2022/06/18 01:55:01 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:55:01 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:55:01 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:55:01 [TRACE] Build time: 
+2022/06/18 01:55:01 [TRACE] Build commit: 
+2022/06/18 01:55:01 [TRACE] Git version: 2.36.1
+2022/06/18 01:55:02 [TRACE] Log mode: File (Trace)
+2022/06/18 01:55:02 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:55:02 [TRACE] Work directory: /usr/bin
+2022/06/18 01:55:02 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:55:02 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:55:02 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:55:02 [TRACE] Build time: 
+2022/06/18 01:55:02 [TRACE] Build commit: 
+2022/06/18 01:55:02 [TRACE] Git version: 2.36.1
+2022/06/18 01:55:03 [TRACE] Log mode: File (Trace)
+2022/06/18 01:55:03 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:55:03 [TRACE] Work directory: /usr/bin
+2022/06/18 01:55:03 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:55:03 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:55:03 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:55:03 [TRACE] Build time: 
+2022/06/18 01:55:03 [TRACE] Build commit: 
+2022/06/18 01:55:03 [TRACE] Git version: 2.36.1
+2022/06/18 01:55:03 [ INFO] Run mode: Production
+2022/06/18 01:55:03 [TRACE] Doing: CheckRepoStats
+2022/06/18 01:55:04 [TRACE] Log mode: File (Trace)
+2022/06/18 01:55:04 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:55:04 [TRACE] Work directory: /usr/bin
+2022/06/18 01:55:04 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:55:04 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:55:04 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:55:04 [TRACE] Build time: 
+2022/06/18 01:55:04 [TRACE] Build commit: 
+2022/06/18 01:55:04 [TRACE] Git version: 2.36.1
+2022/06/18 01:55:05 [TRACE] Log mode: File (Trace)
+2022/06/18 01:55:05 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:55:05 [TRACE] Work directory: /usr/bin
+2022/06/18 01:55:05 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:55:05 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:55:05 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:55:05 [TRACE] Build time: 
+2022/06/18 01:55:05 [TRACE] Build commit: 
+2022/06/18 01:55:05 [TRACE] Git version: 2.36.1
+2022/06/18 01:55:06 [TRACE] Log mode: File (Trace)
+2022/06/18 01:55:06 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:55:06 [TRACE] Work directory: /usr/bin
+2022/06/18 01:55:06 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:55:06 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:55:06 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:55:06 [TRACE] Build time: 
+2022/06/18 01:55:06 [TRACE] Build commit: 
+2022/06/18 01:55:06 [TRACE] Git version: 2.36.1
+2022/06/18 01:55:07 [TRACE] Log mode: File (Trace)
+2022/06/18 01:55:07 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:55:07 [TRACE] Work directory: /usr/bin
+2022/06/18 01:55:07 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:55:07 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:55:07 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:55:07 [TRACE] Build time: 
+2022/06/18 01:55:07 [TRACE] Build commit: 
+2022/06/18 01:55:07 [TRACE] Git version: 2.36.1
+2022/06/18 01:55:08 [TRACE] Log mode: File (Trace)
+2022/06/18 01:55:08 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:55:08 [TRACE] Work directory: /usr/bin
+2022/06/18 01:55:08 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:55:08 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:55:08 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:55:08 [TRACE] Build time: 
+2022/06/18 01:55:08 [TRACE] Build commit: 
+2022/06/18 01:55:09 [TRACE] Git version: 2.36.1
+2022/06/18 01:55:10 [TRACE] Log mode: File (Trace)
+2022/06/18 01:55:10 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:55:10 [TRACE] Work directory: /usr/bin
+2022/06/18 01:55:10 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:55:10 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:55:10 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:55:10 [TRACE] Build time: 
+2022/06/18 01:55:10 [TRACE] Build commit: 
+2022/06/18 01:55:10 [TRACE] Git version: 2.36.1
+2022/06/18 01:55:11 [TRACE] Log mode: File (Trace)
+2022/06/18 01:55:11 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:55:11 [TRACE] Work directory: /usr/bin
+2022/06/18 01:55:11 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:55:11 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:55:11 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:55:11 [TRACE] Build time: 
+2022/06/18 01:55:11 [TRACE] Build commit: 
+2022/06/18 01:55:11 [TRACE] Git version: 2.36.1
+2022/06/18 01:55:12 [TRACE] Log mode: File (Trace)
+2022/06/18 01:55:12 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:55:12 [TRACE] Work directory: /usr/bin
+2022/06/18 01:55:12 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:55:12 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:55:12 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:55:12 [TRACE] Build time: 
+2022/06/18 01:55:12 [TRACE] Build commit: 
+2022/06/18 01:55:12 [TRACE] Git version: 2.36.1
+2022/06/18 01:55:13 [TRACE] Log mode: File (Trace)
+2022/06/18 01:55:13 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:55:13 [TRACE] Work directory: /usr/bin
+2022/06/18 01:55:13 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:55:13 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:55:13 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:55:13 [TRACE] Build time: 
+2022/06/18 01:55:13 [TRACE] Build commit: 
+2022/06/18 01:55:13 [TRACE] Git version: 2.36.1
+2022/06/18 01:55:14 [TRACE] Log mode: File (Trace)
+2022/06/18 01:55:14 [ INFO] Gogs: Go Git Service | Ohio2 0.12.1
+2022/06/18 01:55:14 [TRACE] Work directory: /usr/bin
+2022/06/18 01:55:14 [TRACE] Custom path: /usr/bin/custom
+2022/06/18 01:55:14 [TRACE] Custom config: /etc/gogs.ini
+2022/06/18 01:55:14 [TRACE] Log path: /var/log/gogs
+2022/06/18 01:55:14 [TRACE] Build time: 
+2022/06/18 01:55:14 [TRACE] Build commit: 
+2022/06/18 01:55:14 [TRACE] Git version: 2.36.1
