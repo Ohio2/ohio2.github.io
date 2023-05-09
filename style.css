@@ -1,0 +1,35 @@
+﻿pre {color:#E0E0E0;}
+a, a:visited, a:active, a:hover, a:link {
+	color:#6699ff;
+	text-decoration: none;
+}
+a.button {
+    background-color: #010224;
+    border: none;
+    border-radius: 25px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    
+}
+body {
+    background-image: url('background.svg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Calibri, sans-serif;
+}
+.win {
+    color: black;
+    border: none;
+    border-radius: 25px;
+    background-color: white;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    position: fixed;
+    top: 10%;
+    left: 25%;
+}
+
