@@ -11,6 +11,9 @@ a.button {
     padding: 10px;
     text-align: center;
 }
+a.button:hover {
+    background-color: #2a0847;
+}
 body {
     background-image: url('background.svg');
     background-repeat: no-repeat;
