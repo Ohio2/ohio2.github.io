@@ -10,7 +10,6 @@ a.button {
     color: white;
     padding: 10px;
     text-align: center;
-    
 }
 body {
     background-image: url('background.svg');
@@ -24,6 +23,8 @@ body {
     border: none;
     border-radius: 25px;
     background-color: white;
+    word-wrap: break-word;
+    hyphens: manual;
     text-align: center;
     margin: auto;
     width: 50%;
@@ -31,5 +32,5 @@ body {
     position: fixed;
     top: 10%;
     left: 25%;
+    box-shadow: 10px 10px 5px #2e2e2e;
 }
-
