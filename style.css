@@ -19,26 +19,24 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    font-family: Calibri, sans-serif;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-    align-items: center ;
+    align-items: center;
 }
 .win {
     color: black;
+    font-family: Manrope;
+    font: 16px Manrope;
     border: none;
     border-radius: 25px;
     background-color: white;
     text-align: center;
-    inline-size: auto;
-    word-break: break-word; 
+    overflow-wrap: break-word; 
     margin-left: 0px;
-    min-width: 330px;
-    max-width: 1250px;
+    width: clamp(330px, 100%, 1250px);
     padding: 10px;
-    position: relative;
     top: 10%;
     box-shadow: 10px 10px 5px #2e2e2e;
 }
