@@ -32,13 +32,13 @@ body {
     border-radius: 25px;
     background-color: white;
     text-align: center;
-    inline-size: 160px;
-    overflow-wrap: break-word;
-    margin-left: 550px;
-    width: 33%;
+    inline-size: auto;
+    word-break: break-word; 
+    margin-left: 0px;
+    min-width: 330px;
+    max-width: 1250px;
     padding: 10px;
-    position: fixed;
-    left: 5%;
+    position: relative;
     top: 10%;
     box-shadow: 10px 10px 5px #2e2e2e;
 }
