@@ -20,6 +20,11 @@ body {
     background-attachment: fixed;
     background-size: cover;
     font-family: Calibri, sans-serif;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center ;
 }
 .win {
     color: black;
@@ -29,11 +34,11 @@ body {
     text-align: center;
     inline-size: 160px;
     overflow-wrap: break-word;
-    margin: auto;
+    margin-left: 550px;
     width: 33%;
     padding: 10px;
     position: fixed;
+    left: 5%;
     top: 10%;
-    left: 33%;
     box-shadow: 10px 10px 5px #2e2e2e;
 }
