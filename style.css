@@ -26,14 +26,14 @@ body {
     border: none;
     border-radius: 25px;
     background-color: white;
-    word-wrap: break-word;
-    hyphens: manual;
     text-align: center;
+    inline-size: 160px;
+    overflow-wrap: break-word;
     margin: auto;
-    width: 50%;
+    width: 33%;
     padding: 10px;
     position: fixed;
     top: 10%;
-    left: 25%;
+    left: 33%;
     box-shadow: 10px 10px 5px #2e2e2e;
 }
