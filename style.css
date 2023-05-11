@@ -34,9 +34,8 @@ body {
     background-color: white;
     text-align: center;
     overflow-wrap: break-word; 
-    margin-left: 0px;
+    margin: auto;
     width: clamp(330px, 100%, 1250px);
     padding: 10px;
-    top: 10%;
     box-shadow: 10px 10px 5px #2e2e2e;
 }
