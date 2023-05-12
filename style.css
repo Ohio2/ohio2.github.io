@@ -35,7 +35,7 @@ body {
     text-align: center;
     overflow-wrap: break-word; 
     margin: auto;
-    width: clamp(330px, 100%, 1250px);
+    width: clamp(375px, 100%, 1250px);
     padding: 10px;
     box-shadow: 10px 10px 5px #2e2e2e;
 }
