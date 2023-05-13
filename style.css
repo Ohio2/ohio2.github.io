@@ -1,5 +1,10 @@
-﻿pre {
+﻿* {
+    box-sizing: border-box;
+}
+pre {
     font: 16px Manrope;
+    width: 100%;
+    height: 100%;
 }
 a, a:visited, a:active, a:hover, a:link {
 	color:#6699ff;
@@ -38,19 +43,14 @@ body {
     margin-top: 10px;
 }
 .content {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
     color: black;
     font: 16px Manrope;
     border: none;
     text-align: center;
     white-space: pre-wrap;
-    overflow-wrap: break-word;
+    overflow-wrap: break-before;
     min-width: 375px;
     max-width: 1250px;
-    width: fit-content;
+    width: clamp(375px, 100%, 1250px);
     padding: 10px;
 }
