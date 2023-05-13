@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="14.617264mm"
+   height="13.901825mm"
+   viewBox="0 0 14.617264 13.901825"
+   version="1.1"
+   id="svg5"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient78392">
+      <stop
+         style="stop-color:#ffce22;stop-opacity:1;"
+         offset="1"
+         id="stop78388" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop78390" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient78392"
+       id="linearGradient78400"
+       x1="32.820126"
+       y1="270.58734"
+       x2="43.145775"
+       y2="270.58734"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.05997162,-283.08437)">
+    <path
+       sodipodi:type="star"
+       style="opacity:1;mix-blend-mode:normal;fill:url(#linearGradient78400);fill-opacity:1;stroke:#000000;stroke-width:0.264583"
+       id="path592"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="43.186813"
+       sodipodi:cy="271.46735"
+       sodipodi:r1="7.3858309"
+       sodipodi:r2="3.6929162"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.9424778"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 43.186814,264.08152 2.170641,4.39819 4.853701,0.70529 -3.512171,3.42352 0.829111,4.83409 -4.341283,-2.28235 -4.341282,2.28235 0.82911,-4.83409 -3.51217,-3.42352 4.853701,-0.70529 z"
+       inkscape:transform-center-y="-0.70528748"
+       transform="translate(-35.81821,19.301761)"
+       inkscape:export-filename="halfstar.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:0.264583"
+       id="rect988"
+       width="16.995728"
+       height="15.03304"
+       x="0.031851009"
+       y="281.93396" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:0.264583"
+       id="rect990"
+       width="35.789658"
+       height="28.759037"
+       x="-16.64061"
+       y="280.50983"
+       ry="0" />
+  </g>
+</svg>

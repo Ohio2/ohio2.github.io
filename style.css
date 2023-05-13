@@ -1,4 +1,6 @@
-﻿pre {color:#E0E0E0;}
+﻿pre {
+    font: 16px Manrope;
+}
 a, a:visited, a:active, a:hover, a:link {
 	color:#6699ff;
 	text-decoration: none;
@@ -26,16 +28,29 @@ body {
     align-items: center;
 }
 .win {
-    color: black;
-    font-family: Manrope;
-    font: 16px Manrope;
     border: none;
     border-radius: 25px;
     background-color: white;
-    text-align: center;
-    overflow-wrap: break-word; 
-    margin: auto;
-    width: clamp(375px, 100%, 1250px);
-    padding: 10px;
+    min-width: 375px;
+    max-width: 1250px;
+    width: fit-content;
     box-shadow: 10px 10px 5px #2e2e2e;
+    margin-top: 10px;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font: 16px Manrope;
+    border: none;
+    text-align: center;
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+    min-width: 375px;
+    max-width: 1250px;
+    width: fit-content;
+    padding: 10px;
 }
