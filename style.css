@@ -1,8 +1,13 @@
 ﻿* {
     box-sizing: border-box;
 }
+@font-face {
+    font-family: "manrope";
+    src: url("Manrope_wght.ttf") format('woff2');
+    font-weight: normal bold;
+}
 pre {
-    font: 16px Manrope;
+    font: 16px "Manrope";
     width: 100%;
     height: 100%;
 }
@@ -44,7 +49,7 @@ body {
 }
 .content {
     color: black;
-    font: 16px Manrope;
+    font: 16px "manrope";
     border: none;
     text-align: center;
     white-space: pre-wrap;
