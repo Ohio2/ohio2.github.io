@@ -6,9 +6,6 @@
     src: url("Manrope_wght.ttf") format('woff2');
     font-weight: normal bold;
 }
-img {
-    border-radius: 10px;
-}
 a, a:visited, a:active, a:hover, a:link {
 	color:#6699ff;
 	text-decoration: none;
@@ -20,6 +17,8 @@ a.button {
     color: white;
     padding: 10px;
     text-align: center;
+    margin: 2px;
+    display: inline-block
 }
 a.button:hover {
     background-color: #2a0847;
